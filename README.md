@@ -1,5 +1,10 @@
 ![GoCloud Logo](assets/logo.png)
 
+[![NPM version](LINK HERE)](LINK HERE) 
+[![Build Status](LINK HERE TRAVIS CI)](LINK HERE TRAVIS CI)
+[![Codacy Badge](LINK HERE CODACY)](LINK HERE CODACY)
+[![Coverage Status](LINK HERE COVERAGE STATUS)](LINK HERE COVERAGE STATUS)
+[![Slack Channel](LINK HERE SLACK CHANNEL)](LINK HERE SLACK CHANNEL)
 # gocloud
 Cloud services library
 
